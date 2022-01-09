@@ -1,0 +1,1 @@
+As I am currently following the coursera course to get a certificate, I have completed the week 1 in first day, It was just basics and I am thinking of completing this asap and get along to learn react and all.
